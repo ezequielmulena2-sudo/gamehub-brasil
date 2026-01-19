@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <strong>Testado por <a href="https://github.com/Rhustoxx">🕹️ Rhustoxx</a> • <a href="https://github.com/luc">🕹️ Luc</a> • <a href="https://github.com/bche13">🕹️ Alex Shoiti</a> • <a href="https://github.com/bche13">🕹️ Gabriel Leal</a> • <a href="https://github.com/Gabriel">🕹️ Gabriel</a> • <a href="https://github.com/bche13">🕹️ Gabriel Leal</a></strong>
+  <strong>Testado por <a href="https://github.com/Rhustoxx">🕹️ Rhustoxx</a> • <a href="https://github.com/luc">🕹️ Luc</a> • <a href="https://github.com/bche13">🕹️ Alex Shoiti</a> • <a href="https://github.com/bche13">🕹️ Gabriel Leal</a> • <a href="https://github.com/Gabriel">🕹️ Gabriel</a></strong>
 </p>
 
 <p align="center">
