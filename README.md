@@ -16,11 +16,19 @@
 </p>
 
 <p align="center">
-  <strong>Modificado por <a href="https://youtube.com/@FurulipoGames">🎮 Furulipo Games</a></strong>
+  <strong>Modificado por <a href="https://youtube.com/@FurulipoGames">🎮 Furulipo Games</a> • <a href="https://github.com/Webproject">🎮 WebProject</a></strong>
 </p>
 
 <p align="center">
-  <strong>Testado por <a href="https://github.com/Rhustoxx">🕹️ Rhustoxx</a> • <a href="https://github.com/bche13">🕹️ Cadu</a> • <a href="https://github.com/bche13">🕹️ Alex Shoiti</a> • <a href="https://github.com/bche13">🕹️ Gabriel Leal</a></strong>
+  <strong>Testado por <a href="https://github.com/Rhustoxx">🕹️ Rhustoxx</a> • <a href="https://github.com/luc">🕹️ Luc</a> • <a href="https://github.com/bche13">🕹️ Alex Shoiti</a> • <a href="https://github.com/bche13">🕹️ Gabriel Leal</a> • <a href="https://github.com/Gabriel">🕹️ Gabriel</a> • <a href="https://github.com/bche13">🕹️ Gabriel Leal</a></strong>
+</p>
+
+<p align="center">
+  <strong>Apoio Moral <a href="https://github.com/Rhustoxx">🏎️ Mpjsilvaa</a></strong>
+</p>
+
+<p align="center">
+  <strong>Canais Parceiros <a href="https://www.youtube.com/@BrunoAndroid">📹 BrunoAndroid</a> • <a href="https://www.youtube.com/@crazyforandroidbr4644/">📹 Crazy</a></strong>
 </p>
 
 <p align="center">
@@ -190,6 +198,7 @@ Mesmo com a configuração correta, nem todos os jogos funcionarão perfeitament
 
 - **Canal Oficial**: [Winlator Brasil no YouTube](https://youtube.com/@winlatorbrasil)
 - **Modificador**: [Furulipo Games no YouTube](https://youtube.com/@FurulipoGames)
+- **Canais Parceiros**: [BrunoAndroid no YouTube](https://youtube.com/@BrunoAndroid) e [Crazy for Android BR no YouTube](https://youtube.com/@crazyforandroidbr4644)
 
 📺 Assista demonstrações reais de jogos rodando no GameHub Brasil, além de tutoriais de configuração e otimização.
 
