@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <strong>Apoio Moral <a href="https://github.com/Rhustoxx">🏎️ Mpjsilvaa</a></strong>
+  <strong>Apoio Moral <a href="https://github.com/mpjsilva">🏎️ Mpjsilvaa</a></strong>
 </p>
 
 <p align="center">
