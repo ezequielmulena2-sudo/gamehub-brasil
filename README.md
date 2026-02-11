@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <strong>⚠️CLIQUE AQUI PARA ACESSAR O SITE **HUB EMULATORS** >> https://t3st31.github.io/Ranking-Emulators-Download/</strong>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/downloads/winlatorbrasil/gamehub-brasil/total?style=flat-square&logo=github&label=Downloads&color=brightgreen" alt="Total Downloads"/>
   <img src="https://img.shields.io/badge/Android-8.0%2B-green?style=flat-square&logo=android" alt="Android 8.0+"/>
   <img src="https://img.shields.io/badge/Arquitetura-arm64--v8a-blue?style=flat-square" alt="arm64-v8a"/>
